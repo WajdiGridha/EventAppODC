@@ -19,6 +19,8 @@
 		F85A382429F7EB820077AC3B /* Event.swift in Sources */ = {isa = PBXBuildFile; fileRef = F85A382329F7EB820077AC3B /* Event.swift */; };
 		F85A382629F7FA800077AC3B /* EventVItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F85A382529F7FA800077AC3B /* EventVItemView.swift */; };
 		F85A382829F7FACC0077AC3B /* EventDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F85A382729F7FACC0077AC3B /* EventDetailView.swift */; };
+		F85A382A29F809EF0077AC3B /* EventHItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F85A382929F809EF0077AC3B /* EventHItemView.swift */; };
+		F85A382C29F818080077AC3B /* Performer.swift in Sources */ = {isa = PBXBuildFile; fileRef = F85A382B29F818080077AC3B /* Performer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		F85A382329F7EB820077AC3B /* Event.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Event.swift; sourceTree = "<group>"; };
 		F85A382529F7FA800077AC3B /* EventVItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventVItemView.swift; sourceTree = "<group>"; };
 		F85A382729F7FACC0077AC3B /* EventDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailView.swift; sourceTree = "<group>"; };
+		F85A382929F809EF0077AC3B /* EventHItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventHItemView.swift; sourceTree = "<group>"; };
+		F85A382B29F818080077AC3B /* Performer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Performer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,7 @@
 			isa = PBXGroup;
 			children = (
 				F85A382329F7EB820077AC3B /* Event.swift */,
+				F85A382B29F818080077AC3B /* Performer.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 			isa = PBXGroup;
 			children = (
 				F85A382529F7FA800077AC3B /* EventVItemView.swift */,
+				F85A382929F809EF0077AC3B /* EventHItemView.swift */,
 			);
 			path = Widgets;
 			sourceTree = "<group>";
@@ -215,9 +221,11 @@
 				F85A380629F7CE9D0077AC3B /* EventAppODCMpdam.xcdatamodeld in Sources */,
 				F85A381929F7DA150077AC3B /* Styles.swift in Sources */,
 				F85A381129F7D9750077AC3B /* HomeView.swift in Sources */,
+				F85A382A29F809EF0077AC3B /* EventHItemView.swift in Sources */,
 				F85A382429F7EB820077AC3B /* Event.swift in Sources */,
 				F85A382629F7FA800077AC3B /* EventVItemView.swift in Sources */,
 				F85A382829F7FACC0077AC3B /* EventDetailView.swift in Sources */,
+				F85A382C29F818080077AC3B /* Performer.swift in Sources */,
 				F85A381B29F7DA2E0077AC3B /* Config.swift in Sources */,
 				F85A37FA29F7CE9C0077AC3B /* EventAppODCMpdamApp.swift in Sources */,
 				F85A381729F7DA060077AC3B /* Consts.swift in Sources */,

@@ -4,7 +4,6 @@
 //
 //  Created by Orangeodc8 on 25/4/2023.
 //
-
 import SwiftUI
 
 struct EventVItemView: View {
@@ -57,6 +56,6 @@ struct EventVItemView_Previews: PreviewProvider {
     
     
     static var previews: some View {
-        EventVItemView(event: Event(date: "Sat, May 1 •2:00 PM", image: "event-img", title: "A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz", location: "Lot 13 • Oakland, CA"))
+        EventVItemView(event: Event(date: "Sat, May 1 •2:00 PM", image: "event-img", title: "A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz A Virtual Evening of Smooth Jazz", location: "Lot 13 • Oakland, CA", performers: []))
     }
 }
