@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AirbnbCereal_W_Bd.oft</string>
+		<string>AirbnbCereal_W_Bk.oft</string>
+		<string>AirbnbCereal_W_Blk.oft</string>
+		<string>AirbnbCereal_W_Lt.oft</string>
+		<string>AirbnbCereal_W_Md.oft</string>
+	</array>
+</dict>
+</plist>
